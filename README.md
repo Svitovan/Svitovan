@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Alex. I'm Master of Chemistry.
 - 👀 Now I’m working as a Junior Frontend Developer.
 - 👨‍🎓 Actively expanding my knowledge.
-- 🌱 I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="25" height="25" vertical-align="middle" />.
+- 🌱 I’m currently learning <b>React</b>.
 - 📫 <a href="svitovan@outlook.com">svitovan@outlook.com</a>
 
  ---
