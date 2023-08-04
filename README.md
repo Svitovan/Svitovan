@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/> <br/>
 [Weather App](https://github.com/Svitovan/weather-app-react) <br/>
-[Meme](https://github.com/Svitovan/React-meme)
+[Meme](https://github.com/Svitovan/React-meme) <br/>
+[Movies App](https://github.com/Svitovan/React-Movies-App) <br/>
 
 
