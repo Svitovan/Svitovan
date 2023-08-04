@@ -25,3 +25,5 @@ You can click the Preview link to take a look at your changes.
 [Weather App](https://github.com/Svitovan/weather-app-react)
 
 [Meme](https://github.com/Svitovan/React-meme)
+
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
