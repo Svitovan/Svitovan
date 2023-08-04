@@ -2,7 +2,6 @@
 - 🏭 Now I’m working as a Junior Frontend Developer.
 - 👨‍🎓 Actively expanding my knowledge.
 - 👀 I’m currently learning <b>React</b>.
-- 📫 <a href="svitovan@outlook.com">svitovan@outlook.com</a>
 
  ---
  
