@@ -3,7 +3,7 @@
 - 👨‍🎓 Actively expanding my knowledge.
 - 👀 I’m currently learning <b>React Native</b>.
 
- ---
+
  
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!---
