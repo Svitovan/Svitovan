@@ -19,3 +19,5 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"  />           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
 </div>          
+
+[Weather App](https://github.com/Svitovan/Svitovan/assets/11682028/68d57da8-8a21-4dcf-b0ac-7e4de7a0007d)
