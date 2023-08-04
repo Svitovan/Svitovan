@@ -20,8 +20,8 @@ You can click the Preview link to take a look at your changes.
 </div>          
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="25" height="25"/> <br/>
-[Weather App](https://github.com/Svitovan/weather-app-react) <br/>
+[Weather](https://github.com/Svitovan/weather-app-react) <br/>
 [Meme](https://github.com/Svitovan/React-meme) <br/>
-[Movies App](https://github.com/Svitovan/React-Movies-App) <br/>
+[Movies](https://github.com/Svitovan/React-Movies-App) <br/>
 
 
