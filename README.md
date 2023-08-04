@@ -26,4 +26,4 @@ You can click the Preview link to take a look at your changes.
 
 [Meme](https://github.com/Svitovan/React-meme)
 
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg width="50" height="50")
