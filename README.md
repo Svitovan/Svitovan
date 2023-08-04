@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex. I'm Master of Chemistry.
+- 👋 Hi, I’m Alex. Master of Chemistry.
 - 🏭 Now I’m working as a Junior Frontend Developer.
 - 👨‍🎓 Actively expanding my knowledge.
 - 👀 I’m currently learning <b>React Native</b>.
