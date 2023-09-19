@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex. Master of Chemistry.
-- &#128296 Now I’m working as a Junior Frontend Developer.
+- 🏭 Now I’m working as a Junior Frontend Developer.
 - 👨‍🎓 Actively expanding my knowledge.
 
 <!-- 👀 🏭 - 💞️ I’m looking to collaborate on ... -->
