@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Alex. Master of Chemistry.
-- 🏭 Now I’m working as a Junior Frontend Developer.
+- &#128296 Now I’m working as a Junior Frontend Developer.
 - 👨‍🎓 Actively expanding my knowledge.
-- 👀 &#128296;
-<!-- - 💞️ I’m looking to collaborate on ... -->
+
+<!-- 👀 🏭 - 💞️ I’m looking to collaborate on ... -->
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="50" height="50"/>          
