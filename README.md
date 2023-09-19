@@ -2,9 +2,6 @@
 - 🏭 Now I’m working as a Junior Frontend Developer.
 - 👨‍🎓 Actively expanding my knowledge.
 - 👀 
-
-
- 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!---
 Svitovan/Svitovan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 </div>          
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="25" height="25"/> 
-![Weather](https://github.com/Svitovan/weather-app-react) <br/>
+[Weather](https://github.com/Svitovan/weather-app-react) <br/>
 [Meme](https://github.com/Svitovan/React-meme) <br/>
 [Movies](https://github.com/Svitovan/React-Movies-App) <br/>
 <a href="https://github.com/Svitovan/weather-app-react">Weather</a>
