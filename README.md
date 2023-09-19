@@ -19,7 +19,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
 </div>          
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="25" height="25"/> <br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="25" height="25"/> 
+![Javatpoint](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
+<br/>
 [Weather](https://github.com/Svitovan/weather-app-react) <br/>
 [Meme](https://github.com/Svitovan/React-meme) <br/>
 [Movies](https://github.com/Svitovan/React-Movies-App) <br/>
