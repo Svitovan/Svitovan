@@ -16,6 +16,7 @@ You can click the Preview link to take a look at your changes.
 </div>          
 
 React Apps:
+
 <a href="https://github.com/Svitovan/ai-summarize">AI Summarize</a><br/>
 <a href="https://github.com/Svitovan/weather-app-react">Weather</a><br/>
 <a href="https://github.com/Svitovan/React-meme">Meme</a><br/>
