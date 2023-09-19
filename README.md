@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
 </div>          
 
-React Apps:
+React Apps: <br/>
 <a href="https://github.com/Svitovan/weather-app-react">Weather</a>
 <a href="https://github.com/Svitovan/React-meme">Meme</a>
 <a href="https://github.com/Svitovan/React-Movies-App">Movies</a>
