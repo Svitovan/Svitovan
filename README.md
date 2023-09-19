@@ -23,5 +23,6 @@ You can click the Preview link to take a look at your changes.
 ![Weather](https://github.com/Svitovan/weather-app-react) <br/>
 [Meme](https://github.com/Svitovan/React-meme) <br/>
 [Movies](https://github.com/Svitovan/React-Movies-App) <br/>
+<a href="https://github.com/Svitovan/weather-app-react">Weather</a>
 
 
