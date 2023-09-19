@@ -11,7 +11,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="35" height="35"  />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="25" height="25"/>
 </div>          
 
-##### React Apps:
+###### React Apps:
 <a href="https://github.com/Svitovan/ai-summarize">AI Summarize</a><br/>
 <a href="https://github.com/Svitovan/weather-app-react">Weather</a><br/>
 <a href="https://github.com/Svitovan/React-meme">Meme</a><br/>
