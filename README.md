@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 </div>          
 
 React Apps: <br/>
-<a href="https://github.com/Svitovan/weather-app-react">Weather</a>
-<a href="https://github.com/Svitovan/React-meme">Meme</a>
-<a href="https://github.com/Svitovan/React-Movies-App">Movies</a>
+<a href="https://github.com/Svitovan/weather-app-react">Weather</a><br/>
+<a href="https://github.com/Svitovan/React-meme">Meme</a><br/>
+<a href="https://github.com/Svitovan/React-Movies-App">Movies</a><br/>
 
