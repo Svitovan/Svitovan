@@ -19,5 +19,5 @@
 <a href="https://github.com/Svitovan/React-meme">Meme</a><br/>
 <a href="https://github.com/Svitovan/React-Movies-App">Movies</a><br/>
 
-#### Form
+#### CSS/HTML Form
 <a href="https://github.com/Svitovan/EC-new-claim">New Claim Form</a><br/>
