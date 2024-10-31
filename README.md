@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Alex. Master of Chemistry.
-- 🏭 Now I’m working as a Frontend Developer.
+- 👋 Hi, I’m Alex. 
+- Master of Chemistry.
+- Now I’m working as a Frontend Developer.
 <!--- 👨‍🎓 TypeScript is in process of learning. -->
   
 <!-- 👀 🏭 - 💞️ I’m looking to collaborate on ... -->
