@@ -1,4 +1,4 @@
-- Hi 👋, I’m Alex. 
+- Hi 👋, I’m Alesh. 
 - Master of Chemistry.
 - Now I’m working as a Frontend Developer.
 <!--- 👨‍🎓 TypeScript is in process of learning. -->
