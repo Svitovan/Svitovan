@@ -1,6 +1,6 @@
 - Hi 👋, I’m Alesh. 
 - Master of Chemistry.
-- Now I’m working as a Frontend Developer.
+- Frontend Developer.
 <!--- 👨‍🎓 TypeScript is in process of learning. -->
   
 <!-- 👀 🏭 - 💞️ I’m looking to collaborate on ... -->
