@@ -15,7 +15,7 @@
 </div>          
 
 #### React Apps
-<a href="[https://github.com/Svitovan/ai-summarize](https://github.com/Svitovan/react-fancy-counter)">Fancy counter</a><br/>
+<a href="https://github.com/Svitovan/react-fancy-counter">Fancy counter</a><br/>
 <a href="https://github.com/Svitovan/ai-summarize">AI Summarize</a><br/>
 <a href="https://github.com/Svitovan/weather-app-react">Weather</a><br/>
 <a href="https://github.com/Svitovan/React-meme">Meme</a><br/>
