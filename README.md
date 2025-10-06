@@ -25,3 +25,7 @@
 
 #### CSS/HTML
 <a href="https://github.com/Svitovan/EC-abu-dhabi">Info Page</a><br/>
+<a href="https://github.com/Svitovan/3d-scroll-slider">3d-scroll-slider</a><br/>
+<a href="https://github.com/Svitovan/EC-claim-form">Form</a><br/>
+
+
