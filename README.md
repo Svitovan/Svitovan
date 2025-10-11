@@ -1,7 +1,7 @@
-- Hi 👋, I’m Alesh. 
+<!--- - Hi 👋, I’m Alesh. 
 - Master of Chemistry.
-- Frontend Developer.
-<!--- 👨‍🎓 TypeScript is in process of learning. -->
+- Frontend Developer. -->
+
   
 <!-- 👀 🏭 - 💞️ I’m looking to collaborate on ... -->
 
