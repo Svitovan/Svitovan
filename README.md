@@ -1,11 +1,8 @@
 <!--- - Hi 👋, I’m Alesh. 
 - Master of Chemistry.
 - Frontend Developer. -->
-
   
 <!-- 👀 🏭 - 💞️ I’m looking to collaborate on ... -->
-
-##### HTML, CSS, JavaScript, TypeScript, React
 
 <!-- <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="HTML" alt="HTML" width="50" height="50"/>          
@@ -17,15 +14,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="25" height="25"/>
 </div>           -->
 
-#### React Apps
+#### HTML, CSS, JavaScript, TypeScript, React
+##### React Apps:
 <a href="https://github.com/Svitovan/react-fancy-counter">Fancy counter</a><br/>
 <a href="https://github.com/Svitovan/ai-summarize">AI Summarize</a><br/>
 <a href="https://github.com/Svitovan/weather-app-react">Weather</a><br/>
 <a href="https://github.com/Svitovan/React-meme">Meme</a><br/>
 <a href="https://github.com/Svitovan/React-Movies-App">Movies</a><br/>
 
-
-#### CSS/HTML
+##### CSS/HTML:
 <a href="https://github.com/Svitovan/EC-abu-dhabi">Info Page</a><br/>
 <a href="https://github.com/Svitovan/3d-scroll-slider">3d-scroll-slider</a><br/>
 <a href="https://github.com/Svitovan/EC-claim-form">Form</a><br/>
