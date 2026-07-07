@@ -16,7 +16,6 @@
 
 ### [CV](https://svitovan.github.io/)
 
-#### HTML, CSS, JavaScript, TypeScript, React
 ##### React Apps:
 <a href="https://github.com/Svitovan/react-fancy-counter">Fancy counter</a><br/>
 <a href="https://github.com/Svitovan/ai-summarize">AI Summarize</a><br/>
