@@ -14,6 +14,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="25" height="25"/>
 </div>           -->
 
+[CV](https://svitovan.github.io/)
+
 #### HTML, CSS, JavaScript, TypeScript, React
 ##### React Apps:
 <a href="https://github.com/Svitovan/react-fancy-counter">Fancy counter</a><br/>
