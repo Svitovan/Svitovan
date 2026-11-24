@@ -19,7 +19,7 @@ Frontend Developer with **6+ years of commercial experience** delivering perform
 - 🚀 **Corporate Cloud Modernization:** Leading technical redesign and migration of [Euro-Center Holding SE](https://www.euro-center.com) corporate platform from WordPress to **Astro** in **Microsoft Azure** (Azure Repos, CI/CD), significantly improving Core Web Vitals and maintainability.
 - 🐳 **Infrastructure & Containerization:** Containerized corporate WordPress platform using **Docker** on a dedicated Linux server in a secured **DMZ** environment (maintaining 99.9% uptime).
 - ⚙️ **Enterprise Automation:** Built SharePoint Global Inventory Systems and operational workflow automations (Power Automate) deployed across 12 international offices.
-- 🎯 **Continuous Growth:** Actively expanding depth and hands-on production skills in **React** and **TypeScript**.
+- 🎯 **Continuous Growth:** Building practical **React** and **TypeScript** experience through CupHere and Gym Tracker while continuing to deepen my skills.
 - 🏛️ **Executive Foundation:** Prior background as Chief Executive at Auction House Kleynod and municipal project coordinator at KCCA for **UEFA Euro 2012**, bringing mature business acumen, accountability, and cross-functional team coordination.
 
 ---
@@ -34,6 +34,7 @@ Frontend Developer with **6+ years of commercial experience** delivering perform
       <img src="https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React (Expanding)" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript (Expanding)" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
       <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -56,6 +57,8 @@ Frontend Developer with **6+ years of commercial experience** delivering perform
     <td>
       <img src="https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoftsharepoint&logoColor=white" alt="SharePoint" />
       <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate" />
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
       <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logoColor=white" alt="REST APIs" />
     </td>
@@ -64,34 +67,60 @@ Frontend Developer with **6+ years of commercial experience** delivering perform
 
 ---
 
-### 🌟 Featured Repositories & Highlights
+### 🌟 Featured Projects
 
-- 🌐 [**svitovan.github.io**](https://github.com/Svitovan/svitovan.github.io) — Personal interactive portfolio & ATS-friendly CV featuring Dark Mode, responsive WebP optimization, automated CI/CD pipeline, and Schema.org linked data graph.
-- 🏢 [**Euro-Center Holding SE**](https://www.euro-center.com) — Corporate platform modernization from legacy monolithic architecture to cloud-native Astro in Azure.
-- 🐌 [**Achatina E-Commerce Store**](https://www.achatina.com.ua) — Specialized B2C online shop with dynamic species catalog, category filtering, and mobile-optimized ordering workflows.
-- ⚛️ [**React & Interactive Experiments**](https://github.com/Svitovan?tab=repositories&q=react):
-  - [**weather-app-react**](https://github.com/Svitovan/weather-app-react) — Real-time weather dashboard with external API integration.
-  - [**ai-summarize**](https://github.com/Svitovan/ai-summarize) — AI-assisted text summarization interface.
-  - [**React-Movies-App**](https://github.com/Svitovan/React-Movies-App) — Movie search and browsing web application.
+#### ☕ [CupHere](https://cuphere.com) — Independent Product
+
+A location-based PWA for spontaneous coffee meetings. I designed and developed the product, including UI/UX, frontend and backend integration, database architecture, security, and deployment.
+
+**Tech:** React, TypeScript, Vite, React Hook Form, TanStack Query, Supabase, PostgreSQL, Realtime, PWA / Workbox, GitHub Actions.
+
+🚀 Public release coming soon · [Pre-launch website](https://cuphere.com)
+
+#### 💪 Gym Tracker — Strength Training PWA
+
+A mobile-first app for logging workouts, sets, weights, and reps, with a rest timer, local session recovery, and offline support.
+
+**Tech:** TypeScript, Vite, IndexedDB, Service Worker.
+
+[Live demo](https://strong-sable-3c4cb9.netlify.app/) · [Source code](https://github.com/Svitovan/gym-tracker)
+
+#### 🏢 [Euro-Center](https://www.euro-center.com) — Corporate Website Modernization
+
+Migrated the corporate website from WordPress to Astro, with source control in Azure Repos and automated deployment through Azure Pipelines to Azure Static Web Apps.
+
+#### 🐌 [Achatina](https://www.achatina.com.ua) — Specialized E-Commerce
+
+A responsive e-commerce website with product catalog navigation, species filtering, galleries, and order inquiry forms.
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <strong><a href="https://www.euro-center.com">Euro-Center Holding SE</a></strong><br />
-      <sub>Corporate Cloud Modernization · Astro · Azure · Docker</sub><br /><br />
-      <a href="https://www.euro-center.com">
-        <img src="https://raw.githubusercontent.com/Svitovan/svitovan.github.io/master/assets/euro-center-preview.webp" alt="Euro-Center Platform Preview" width="100%" />
-      </a>
+      <strong><a href="https://cuphere.com">CupHere</a></strong><br />
+      <sub>Independent product · Release coming soon</sub><br /><br />
+      <a href="https://cuphere.com"><img src="https://raw.githubusercontent.com/Svitovan/svitovan.github.io/master/assets/cuphere-icon.png" alt="CupHere app icon" width="192" /></a>
     </td>
     <td width="50%" align="center">
-      <strong><a href="https://www.achatina.com.ua">Achatina E-Commerce Store</a></strong><br />
-      <sub>Specialized B2C E-Commerce · Catalog &amp; Cart</sub><br /><br />
-      <a href="https://www.achatina.com.ua">
-        <img src="https://raw.githubusercontent.com/Svitovan/svitovan.github.io/master/assets/achatina-preview.webp" alt="Achatina Store Preview" width="100%" />
-      </a>
+      <strong><a href="https://strong-sable-3c4cb9.netlify.app/">Gym Tracker</a></strong><br />
+      <sub>Strength training PWA · TypeScript</sub><br /><br />
+      <a href="https://strong-sable-3c4cb9.netlify.app/"><img src="https://raw.githubusercontent.com/Svitovan/svitovan.github.io/master/assets/gym-tracker-preview.webp" alt="Gym Tracker workout screen" width="100%" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <strong><a href="https://www.euro-center.com">Euro-Center</a></strong><br />
+      <sub>Corporate website · Astro · Azure</sub><br /><br />
+      <a href="https://www.euro-center.com"><img src="https://raw.githubusercontent.com/Svitovan/svitovan.github.io/master/assets/euro-center-preview.webp" alt="Euro-Center website preview" width="100%" /></a>
+    </td>
+    <td width="50%" align="center">
+      <strong><a href="https://www.achatina.com.ua">Achatina</a></strong><br />
+      <sub>Specialized e-commerce</sub><br /><br />
+      <a href="https://www.achatina.com.ua"><img src="https://raw.githubusercontent.com/Svitovan/svitovan.github.io/master/assets/achatina-preview.webp" alt="Achatina website preview" width="100%" /></a>
     </td>
   </tr>
 </table>
+
+**More:** [Portfolio source](https://github.com/Svitovan/svitovan.github.io) · [React experiments](https://github.com/Svitovan?tab=repositories&q=react)
 
 ---
 
